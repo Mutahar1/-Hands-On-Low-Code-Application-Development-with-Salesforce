@@ -13,6 +13,8 @@ This repository accompanies *Hands‑On Low‑Code Application Development with 
 
 It contains example code and structured exercises that map directly to each chapter of the book, helping learners become proficient with Salesforce’s configuration features data modeling, automation, security, UX design, process management, and deployment — without deep programming expertise. :contentReference[oaicite:1]{index=1}
 
+![Image Alt](https://github.com/Mutahar1/-Hands-On-Low-Code-Application-Development-with-Salesforce/blob/86dd29e18d9ad8d2abee650215d57392c071eaed/Screenshot%202026-01-22%20021439.png)
+
 ---
 
 ## Problem
