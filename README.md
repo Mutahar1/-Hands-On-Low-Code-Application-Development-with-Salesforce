@@ -11,7 +11,7 @@
 
 This repository accompanies *Hands‑On Low‑Code Application Development with Salesforce*, a practical guide published by Packt for building **declarative (low‑code)** Salesforce applications that solve real business challenges using clicks instead of code. :contentReference[oaicite:0]{index=0}
 
-It contains example code and structured exercises that map directly to each chapter of the book, helping learners become proficient with Salesforce’s configuration features data modeling, automation, security, UX design, process management, and deployment — without deep programming expertise. :contentReference[oaicite:1]{index=1}
+It contains example code and structured exercises that map directly to each chapter of the book, helping learners become proficient with Salesforce’s configuration features data modeling, automation, security, UX design, process management, and deployment without deep programming expertise. :contentReference[oaicite:1]{index=1}
 
 ![Image Alt](https://github.com/Mutahar1/-Hands-On-Low-Code-Application-Development-with-Salesforce/blob/86dd29e18d9ad8d2abee650215d57392c071eaed/Screenshot%202026-01-22%20021439.png)
 
@@ -52,7 +52,7 @@ Each chapter folder contains code snippets, declarative configuration, and examp
 
 ## What You’ll Learn
 
-The content in this repo — paired with the book — walks through key Salesforce functional areas:
+The content in this repo paired with the book walks through key Salesforce functional areas:
 
 - **Data Modeling** using custom objects, fields, and relationships  
 - **Data Quality** via formulas, validation rules, and configuration  
